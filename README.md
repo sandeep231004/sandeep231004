@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandeep231004
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Generative AI
-  📫 How to reach me saisandeep.2310@gmail.com
+- 📫 How to reach me saisandeep.2310@gmail.com
 - 😄 Pronouns: he/him
 
 
